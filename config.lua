@@ -7,5 +7,3 @@ Config.Density = {
     RandomVehicle = 0.0,
     PedScenario = 0.0
 }
-
-Config.AmbiantRange = 0.0

@@ -7,8 +7,6 @@ local function main()
             SetRandomVehicleDensityMultiplierThisFrame(Config.Density.RandomVehicle)
             SetScenarioPedDensityMultiplierThisFrame(Config.Density.PedScenario)
 
-            SetAmbientVehicleRangeMultiplierThisFrame(Config.AmbiantRange)
-
             Citizen.Wait(0)
         end
     end)

@@ -9,3 +9,11 @@
 
 ## **HOW TO CONFIGURE:**
 - *Edit `config.lua` to configure the script.*
+
+## **CHANGELOG:**
+### **1.0**
+- *Pedestrian density control.*
+- *Vehicle density control.*
+- *Parked vehicle density control.*
+- *Random vehicle density control.*
+- *Ped scenario control.*
